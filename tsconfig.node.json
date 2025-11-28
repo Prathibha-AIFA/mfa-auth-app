@@ -4,7 +4,6 @@
     "target": "ES2023",
     "lib": ["ES2023"],
     "module": "ESNext",
-    "types": ["node"],             // 👈 CHANGE: remove "vite/client" here
     "skipLibCheck": true,
 
     "moduleResolution": "bundler",
